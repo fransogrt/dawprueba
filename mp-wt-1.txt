@@ -1,0 +1,2 @@
+Cambio aleatorio desde worktree 1 (rama mp-wt-1)
+Creado: 2026-10-08
